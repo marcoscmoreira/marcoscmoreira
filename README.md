@@ -3,7 +3,7 @@
 **_Marcos Coelho_**
 
 ---
-### Conexões
+### Conexões/Connections
 
 [Linkedin](https://www.linkedin.com/in/marcos-coelho-moreira/)
 
