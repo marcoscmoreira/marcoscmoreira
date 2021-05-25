@@ -1,14 +1,15 @@
-<div align="center">
+<h3 align="center" color="#FF0000">
     <!-- Nome -->
-    <h3>Marcos Coelho Moreira</h3>
-    </br>
-    ![Logo](./assets/logoAsset.png)
-</div>
+    Marcos Coelho Moreira
+</h3>
 
 </br>
 
-***
+<!-- Insere a logo -->
+![Logo](./assets/logoAsset.png)
 
+</br>
+***
 </br>
 
 <!-- Conexões  -->
