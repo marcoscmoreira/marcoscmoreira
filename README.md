@@ -1,12 +1,11 @@
-<h3 align="center" color="#FF0000">
+<h3 align="center">
     <!-- Nome -->
     Marcos Coelho Moreira
+    <!-- Insere a logo -->
+    ![Logo](./assets/logoAsset.png)
 </h3>
 
 </br>
-
-<!-- Insere a logo -->
-![Logo](./assets/logoAsset.png)
 
 </br>
 ***
