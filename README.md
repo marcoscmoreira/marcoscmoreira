@@ -1,7 +1,7 @@
-**_###<h3 align="center">
+<h3 align="center">
     <!-- Nome -->
     Marcos Coelho Moreira
-</h3>_**
+</h3>
 
 <!-- Insere a logo -->
 ![Logo](./assets/logoAsset.png){width=150px}
