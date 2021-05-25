@@ -1,6 +1,8 @@
-**_Marcos Coelho_**
+<center>
+### Marcos Coelho Moreira
 
 ![Logo](./assets/logoAsset.png)
+</center>
 
 ---
 
