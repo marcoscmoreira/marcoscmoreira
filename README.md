@@ -1,12 +1,16 @@
-<h3 align="center">
+<div align="center">
     <!-- Nome -->
-    Marcos Coelho Moreira
-</h3>
+    <h3>Marcos Coelho Moreira</h3>
+    </br>
+    ![Logo](./assets/logoAsset.png)
+</div>
 
-<!-- Insere a logo -->
-![Logo](./assets/logoAsset.png){width=150px}
+</br>
 
 ***
+
+</br>
+
 <!-- Conexões  -->
 ### Conexões/Connections
 
