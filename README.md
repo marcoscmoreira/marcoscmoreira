@@ -1,11 +1,13 @@
-<center>
-### Marcos Coelho Moreira
+**_###<h3 align="center">
+    <!-- Nome -->
+    **_### Marcos Coelho Moreira_**
+</h3>_**
 
-![Logo](./assets/logoAsset.png)
-</center>
+<!-- Insere a logo -->
+![Logo](./assets/logoAsset.png){width=150px}
 
----
-
+***
+<!-- Conexões  -->
 ### Conexões/Connections
 
 [Linkedin](https://www.linkedin.com/in/marcos-coelho-moreira/)
