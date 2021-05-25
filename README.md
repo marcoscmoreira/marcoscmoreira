@@ -1,6 +1,6 @@
 **_###<h3 align="center">
     <!-- Nome -->
-    **_### Marcos Coelho Moreira_**
+    Marcos Coelho Moreira
 </h3>_**
 
 <!-- Insere a logo -->
