@@ -4,7 +4,10 @@
 <!-- Insere a logo -->
 ![Logo](./assets/Logo-BlackRabbit_RGB_horizontal.png)
 
-[<img src="[./assets/Logo-BlackRabbit_RGB_horizontal.png]" width="250"/>](./assets/Logo-BlackRabbit_RGB_horizontal.png)
+img[alt="Logo"] { 
+  max-width:  20px; 
+  display: block;
+}
 
 ***
 <!-- Conexões  -->
