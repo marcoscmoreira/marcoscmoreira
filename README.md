@@ -1,7 +1,8 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
-[![ LinkedIn ][linkedin-shield]][linkedin-url]
+
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/marcos-coelho-moreira]
 
 <!-- Nome -->
 ### **_Marcos Coelho Moreira_**
