@@ -2,7 +2,7 @@
 ### **_Marcos Coelho Moreira_**
 
 <!-- Insere a logo -->
-![Logo](./assets/Logo-BlackRabbit_RGB_horizontal.png =250x250)
+![Logo](./assets/Logo-BlackRabbit_RGB_horizontal.png)
 
 ***
 <!-- Conexões  -->
