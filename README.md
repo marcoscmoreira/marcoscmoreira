@@ -2,7 +2,8 @@
 <a name="readme-top"></a>
 
 
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/marcos-coelho-moreira]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- Nome -->
 ### **_Marcos Coelho Moreira_**
