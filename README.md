@@ -4,7 +4,7 @@
 <!-- Insere a logo -->
 <!-- ![Logo](./assets/Logo-BlackRabbit_RGB_horizontal.png) -->
 
-<img src="./assets/Logo-BlackRabbit_RGB_horizontal.png"  width="60%">
+<img src="./assets/Logo-BlackRabbit_RGB_horizontal.png"  width="40%">
 ***
 <!-- Conexões  -->
 ### Conexões/Connections
