@@ -12,13 +12,12 @@
 
 <!-- Nome + Logo-->
 <div align="center">
-    <h2>Marcos Coelho Moreira</h2>
+    <h1>Marcos Coelho Moreira</h1>
     </br>
     <div>
         <img src="./assets/Logo-BlackRabbit_RGB_horizontal.png"  width="20%" >
     </div>
 </div>
-
 </br>
 
 <!-- ACKNOWLEDGMENTS -->
@@ -56,3 +55,5 @@
 
 <!-- Bibliotecas de escudos -->
 <!-- https://github.com/Ileriayo/markdown-badges -->
+<!-- https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
