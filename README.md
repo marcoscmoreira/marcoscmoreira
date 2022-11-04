@@ -8,7 +8,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
+[![GitHub][GitHub-Shild]][github-url]
 
 <!-- Nome + Logo-->
 <div align="center">
@@ -24,17 +24,21 @@
 <!-- ACKNOWLEDGMENTS -->
 ## Conhecimentos/knowledge
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Angular][Angular.io]][Angular-url]
-<!-- * [![Java][Java-Shield]][Angular-url] -->
+![Java][Java-Shield]
+![Spring][Spring-Shield]
+[![Next][Next.js]][Next-url]
+[![React][React.js]][React-url]
+[![Angular][Angular.io]][Angular-url]
+![MySQL][MySql-Shield]
+![Postgres][Postgres-Shield]
+![Figma][Figma-shield]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/marcos-coelho-moreira/
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
@@ -42,4 +46,13 @@
 [React-url]: https://reactjs.org/
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [Angular-url]: https://angular.io/
-[Java-Shield]: https://www.oracle.com/img/tech/cb88-java-logo-001.jpg
+[Java-Shield]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white
+[Spring-Shield]: https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white
+[GitHub-Shild]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
+[github-url]: https://github.com/marcoscmoreira
+[MySql-Shield]: https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
+[Postgres-Shield]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
+[Figma-shield]: https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white
+
+<!-- Bibliotecas de escudos -->
+<!-- https://github.com/Ileriayo/markdown-badges -->
