@@ -13,9 +13,17 @@
 
 <!-- Nome + Logo-->
 <div align="Left">
+
+<style>
+h2 {
+    /* color: red; */
+    padding: 60px;
+} 
+</style>
     <h2>Marcos Coelho Moreira</h2>
     </br>
-    <div display="block" width="30%">
+    <div>
+    
         <!-- <img src="assets/logo-Coelho-Tech.png"  width="30%" > -->
         <picture >
             <source media="(prefers-color-scheme: dark)" 
