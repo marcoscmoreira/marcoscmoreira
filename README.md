@@ -11,7 +11,7 @@
 [![GitHub][GitHub-Shild]][github-url]
 
 <!-- Nome + Logo-->
-<div align="center">
+<div  display="flex" align="center">
     <h1>Marcos Coelho Moreira</h1>
     </br>
     <div>
