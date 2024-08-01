@@ -12,9 +12,10 @@
 [![GitHub][GitHub-Shild]][github-url] -->
 
 <style>
-    #header {
+    .header {
         
-        & h2 {
+        h2 {
+            display: block;
             align: center;
         }
         
@@ -23,7 +24,7 @@
 </style>
 
 <!-- Nome + Logo-->
-<div id="header">
+<div class="header">
     <h2>Marcos Coelho Moreira</h2>
     </br>
     <div>
