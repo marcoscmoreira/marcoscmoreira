@@ -14,17 +14,19 @@
 <style>
     .header {
         
-        div h2 {
-            color: red;
-        }
         
+        
+    }
+
+    .red {
+        color: red;
     }
 
 </style>
 
 <!-- Nome + Logo-->
 <div class="header">
-    <h2>Marcos Coelho Moreira</h2>
+    <h2 class="red">Marcos Coelho Moreira</h2>
     </br>
     <div>
         <!-- <img src="assets/logo-Coelho-Tech.png"  width="30%" > -->
