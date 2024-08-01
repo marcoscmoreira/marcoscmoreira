@@ -20,7 +20,7 @@
 
 <br>
 <main>
-     <h5>Proprietário na Coelho Tech</h5>
+     <h3>Proprietário | Coelho Tech</h3>
      <br>
      <picture >
         <source media="(prefers-color-scheme: dark)" srcset="assets/logo-Coelho-Tech-Dark-Mode.png">
@@ -30,12 +30,22 @@
 </main>
 <br>
 
-<!-- ACKNOWLEDGMENTS -->
+
 ### Conhecimentos
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+|Frontend           | Backend           | Banco de Dados    |
+|-------------------|-------------------|-------------------|
+| ![HTML5]          | ...               | ... |
+| ![CSS3]           | ...               | ... |
+| ![JavaScript]     | ...               | ... |
+
+<!-- Escudos que compoem a tebela de conhecimentos -->
+
+[HTML5]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+
+[CSS3]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
+
+[JavaScript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 
 <!-- ![Java][Java-Shield] -->
 <!-- ![Spring][Spring-Shield] -->
