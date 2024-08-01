@@ -12,21 +12,14 @@
 [![GitHub][GitHub-Shild]][github-url] -->
 
 <style>
-    .header {
-        
-        
-        
-    }
-
     .red {
         color: red;
     }
-
 </style>
 
 <!-- Nome + Logo-->
 <div class="header">
-    <h2 class="red">Marcos Coelho Moreira</h2>{#identifier .red}
+    <h2 class="red">Marcos Coelho Moreira</h2>{.red}
     </br>
     <div>
         <!-- <img src="assets/logo-Coelho-Tech.png"  width="30%" > -->
