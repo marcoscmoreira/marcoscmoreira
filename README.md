@@ -14,16 +14,11 @@
 <h2> Marcos Coelho Moreira </h2>
 </br>
 <div>
-        <!-- <img src="assets/logo-Coelho-Tech.png"  width="30%" > -->
-        <picture >
-            <source media="(prefers-color-scheme: dark)" 
-                srcset="assets/logo-Coelho-Tech-Dark-Mode.png">
-            <source media="(prefers-color-scheme: light)" 
-                srcset="assets/logo-Coelho-Tech-Ligth-Mode.png">
-            <img width="30%" alt="Shows an illustrated sun in light mode and a moon with stars in dark mode."
-                 src="assets/logo-Coelho-Tech-Dark-Mode.png">
-        </picture>
-    </div>
+     <picture >
+        <source media="(prefers-color-scheme: dark)" srcset="assets/logo-Coelho-Tech-Dark-Mode.png">
+        <source media="(prefers-color-scheme: light)" srcset="assets/logo-Coelho-Tech-Ligth-Mode.png">
+        <img width="30%" alt="" src="assets/logo-Coelho-Tech-Dark-Mode.png">
+    </picture>
 </div>
 </br>
 
