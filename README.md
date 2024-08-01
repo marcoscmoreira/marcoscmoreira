@@ -19,7 +19,7 @@
 
 <!-- Nome + Logo-->
 <div class="header">
-    <h2 class="red">Marcos Coelho Moreira</h2>{.red}
+    ## Marcos Coelho Moreira{.red}
     </br>
     <div>
         <!-- <img src="assets/logo-Coelho-Tech.png"  width="30%" > -->
