@@ -24,8 +24,9 @@
 }
 </style>
 
-# Markdown heading styles {#identifier .heading1}
-## Markdown heading styles {#identifier .heading2}
+<h1 id="identifier" class="heading1">
+    Markdown h1 styles
+</h1>
 
 <!-- Nome + Logo-->
 <div class="header">
