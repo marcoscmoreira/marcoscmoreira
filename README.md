@@ -14,9 +14,8 @@
 <style>
     .header {
         
-        h2 {
-            display: block;
-            align: center;
+        div h2 {
+            color: red;
         }
         
     }
