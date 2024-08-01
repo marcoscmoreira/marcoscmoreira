@@ -11,7 +11,7 @@
 [![GitHub][GitHub-Shild]][github-url]
 
 <!-- Nome + Logo-->
-<div  display="flex" align="center">
+<div align="center">
     <h1>Marcos Coelho Moreira</h1>
     </br>
     <div>
@@ -32,7 +32,7 @@
 ![Postgres][Postgres-Shield]
 ![Figma][Figma-shield]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<span align="right">(<a href="#readme-top">Voltar ao topo</a>)</span>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
