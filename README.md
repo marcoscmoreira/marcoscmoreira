@@ -5,7 +5,7 @@
 # Marcos Coelho Moreira
 </br>
 
-> Olá, me chamo Marcos! Sou graduado em sistema de informação, apaixonado por conhecimento em sistemas, programação e inovações tecnológicas.
+> Olá, me chamo Marcos! Sou graduado em sistema de informação,  </br>apaixonado por conhecimento em sistemas, programação e inovações tecnológicas.
 </br>
 </br>
 
