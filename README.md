@@ -12,14 +12,15 @@
 [![GitHub][GitHub-Shild]][github-url] -->
 
 <style>
-    h2 {
-        /* color: red; */
-        padding: 60px;
-    } 
+    #header {
+        align="center"
+    }
+
+    
 </style>
 
 <!-- Nome + Logo-->
-<div align="Left">
+<div id="header">
     <h2>Marcos Coelho Moreira</h2>
     </br>
     <div>
