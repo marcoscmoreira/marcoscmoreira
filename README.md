@@ -15,9 +15,9 @@
 <div align="Left">
     <h2>Marcos Coelho Moreira</h2>
     </br>
-    <div>
+    <div display="block" width="30%">
         <!-- <img src="assets/logo-Coelho-Tech.png"  width="30%" > -->
-        <picture display="block" width="30%">
+        <picture >
             <source media="(prefers-color-scheme: dark)" 
                 srcset="assets/logo-Coelho-Tech-Dark-Mode.png">
             <source media="(prefers-color-scheme: light)" 
