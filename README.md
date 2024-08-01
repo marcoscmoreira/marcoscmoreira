@@ -11,16 +11,18 @@
 [![GitHub][GitHub-Shild]][github-url] -->
 
 <!-- Nome + Logo-->
-<h2> Marcos Coelho Moreira </h2>
-</br>
+<h1> Marcos Coelho Moreira </h1>
+<br>
 <div>
+     <h5>Proprietário na Coelho Tech</h5>
+     <br>
      <picture >
         <source media="(prefers-color-scheme: dark)" srcset="assets/logo-Coelho-Tech-Dark-Mode.png">
         <source media="(prefers-color-scheme: light)" srcset="assets/logo-Coelho-Tech-Ligth-Mode.png">
         <img width="30%" alt="" src="assets/logo-Coelho-Tech-Dark-Mode.png">
     </picture>
 </div>
-</br>
+<br>
 
 <!-- ACKNOWLEDGMENTS -->
 <!-- ## Conhecimentos/knowledge -->
@@ -33,8 +35,8 @@
 <!-- ![MySQL][MySql-Shield] -->
 <!-- ![Postgres][Postgres-Shield] -->
 <!-- ![Figma][Figma-shield] -->
-
-<a align="right">(<a href="#readme-top">Voltar ao topo</a>)</a>
+<br><br>
+<p align="right"><a  ><a href="#readme-top">Voltar ao topo</a></a></p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
