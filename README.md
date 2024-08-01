@@ -11,11 +11,11 @@
 [![GitHub][GitHub-Shild]][github-url]
 
 <!-- Nome + Logo-->
-<div align="center">
-    <h1>Marcos Coelho Moreira</h1>
+<div align="Left">
+    <h2>Marcos Coelho Moreira</h2>
     </br>
     <div>
-        <img src="./assets/Logo-BlackRabbit_RGB_horizontal.png"  width="20%" >
+        <img src="assets/logo-Coelho-Tech.jpg"  width="10%" >
     </div>
 </div>
 </br>
