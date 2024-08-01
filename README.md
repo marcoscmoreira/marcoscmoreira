@@ -17,7 +17,7 @@
     </br>
     <div>
         <!-- <img src="assets/logo-Coelho-Tech.png"  width="30%" > -->
-        <picture>
+        <picture width="30%">
             <source media="(prefers-color-scheme: dark)" 
                 srcset="assets/logo-Coelho-Tech-Dark-Mode.png">
             <source media="(prefers-color-scheme: light)" 
