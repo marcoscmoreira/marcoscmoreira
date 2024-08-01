@@ -3,37 +3,30 @@
 
 <!-- Nome + Logo-->
 # Marcos Coelho Moreira
-
 </br>
 
 > Olá, me chamo Marcos! Sou graduado em sistema de informação, apaixonado por conhecimento em sistemas, programação e inovações tecnológicas.
-
+</br>
 </br>
 
-<header align="left">
-
-##### Me encontre
+## Me encontre
 [![LinkedIn][linkedin-shield]][linkedin-url]
 <!-- [![GitHub][GitHub-Shild]][github-url] -->
+</br>
 
-</header>
-
-<br>
 
 ## Proprietário | Coelho Tech</h3>
-<br>
+</br>
 <picture >
-    <source media="(prefers-color-scheme: dark)" srcset="assetslogo-Coelho-Tech-Dark-Mode.png">
-    <source media="(prefers-color-scheme: light)"srcset="assets/logo-Coelho-Tech-Ligth-Mode.png">
-    <img width="30%" alt="" src="assetslogo-Coelho-Tech-Dark-Mode.png">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-Coelho-Tech-Dark-Mode.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/logo-Coelho-Tech-Ligth-Mode.png">
+    <img width="30%" alt="" src="assets/logo-Coelho-Tech-Dark-Mode.png">
 </picture>
-
-<br>
-
+</br>
+</br>
 
 ## Conhecimentos
-
- Meus conhecimentos
+- Meus conhecimentos
 
 |Frontend           | Backend           | Banco de Dados    |
 |-------------------|-------------------|-------------------|
@@ -41,8 +34,8 @@
 | ![CSS3]           | ...               | ... |
 | ![JavaScript]     | ...               | ... |
 
-<!-- Escudos que compoem a tebela de conhecimentos -->
 
+<!-- Escudos que compoem a tebela de conhecimentos -->
 [HTML5]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 
 [CSS3]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
