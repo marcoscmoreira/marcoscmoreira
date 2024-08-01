@@ -19,19 +19,21 @@
 </header>
 
 <br>
-<main>
-     <h3>Proprietário | Coelho Tech</h3>
-     <br>
-     <picture >
-        <source media="(prefers-color-scheme: dark)" srcset="assets/logo-Coelho-Tech-Dark-Mode.png">
-        <source media="(prefers-color-scheme: light)" srcset="assets/logo-Coelho-Tech-Ligth-Mode.png">
-        <img width="30%" alt="" src="assets/logo-Coelho-Tech-Dark-Mode.png">
-    </picture>
-</main>
+
+## Proprietário | Coelho Tech</h3>
+<br>
+<picture >
+    <source media="(prefers-color-scheme: dark)" srcset="assetslogo-Coelho-Tech-Dark-Mode.png">
+    <source media="(prefers-color-scheme: light)"srcset="assets/logo-Coelho-Tech-Ligth-Mode.png">
+    <img width="30%" alt="" src="assetslogo-Coelho-Tech-Dark-Mode.png">
+</picture>
+
 <br>
 
 
-### Conhecimentos
+## Conhecimentos
+
+ Meus conhecimentos
 
 |Frontend           | Backend           | Banco de Dados    |
 |-------------------|-------------------|-------------------|
