@@ -54,7 +54,7 @@
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
-[linkedin-url]: https://www.linkedin.com/in/marcos-coelho-moreira/
+[linkedin-url]: www.linkedin.com/in/marcos-coelho-moreira
 
 <!-- [GitHub-Shild]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
 [github-url]: https://github.com/marcoscmoreira -->
