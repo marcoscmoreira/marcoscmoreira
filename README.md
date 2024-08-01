@@ -10,7 +10,6 @@
 -->
 <!-- [![LinkedIn][linkedin-shield]][linkedin-url]
 [![GitHub][GitHub-Shild]][github-url] -->
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 <!-- Nome + Logo-->
 <div align="Left">
@@ -24,7 +23,7 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
             <source media="(prefers-color-scheme: light)" 
                 srcset="assets/logo-Coelho-Tech-Ligth-Mode.png">
             <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode."
-                 src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+                 src="assets/logo-Coelho-Tech-Dark-Mode.png">
         </picture>
     </div>
 </div>
