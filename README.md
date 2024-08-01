@@ -25,7 +25,7 @@
      <picture >
         <source media="(prefers-color-scheme: dark)" srcset="assets/logo-Coelho-Tech-Dark-Mode.png">
         <source media="(prefers-color-scheme: light)" srcset="assets/logo-Coelho-Tech-Ligth-Mode.png">
-        <img width="40%" alt="" src="assets/logo-Coelho-Tech-Dark-Mode.png">
+        <img width="30%" alt="" src="assets/logo-Coelho-Tech-Dark-Mode.png">
     </picture>
 </main>
 <br>
