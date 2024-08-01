@@ -1,6 +1,29 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
+```html
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="github-markdown.css">
+<style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+<article class="markdown-body">
+	<h1>Unicorns</h1>
+	<p>All the things</p>
+</article>
+```
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -10,23 +33,6 @@
 -->
 <!-- [![LinkedIn][linkedin-shield]][linkedin-url]
 [![GitHub][GitHub-Shild]][github-url] -->
-
-<style>
-.heading1 {
-    color: red;
-    font-weight:700;
-    font-size: 35px;
-}
-.heading2 {
-    color: blue;
-    font-weight:700;
-    font-size: 30px;
-}
-</style>
-
-<h1 id="identifier" class="heading1">
-    Markdown h1 styles
-</h1>
 
 <!-- Nome + Logo-->
 <div class="header">
