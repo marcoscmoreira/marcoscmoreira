@@ -7,15 +7,16 @@
 *** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![GitHub][GitHub-Shild]][github-url]
+<!-- [![LinkedIn][linkedin-shield]][linkedin-url]
+[![GitHub][GitHub-Shild]][github-url] -->
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 <!-- Nome + Logo-->
 <div align="Left">
     <h2>Marcos Coelho Moreira</h2>
     </br>
     <div>
-        <img src="assets/logo-Coelho-Tech.png"  width="20%" >
+        <img src="assets/logo-Coelho-Tech.png"  width="30%" >
     </div>
 </div>
 </br>
@@ -32,7 +33,7 @@
 <!-- ![Postgres][Postgres-Shield] -->
 <!-- ![Figma][Figma-shield] -->
 
-<span align="right">(<a href="#readme-top">Voltar ao topo</a>)</span>
+<a align="right">(<a href="#readme-top">Voltar ao topo</a>)</a>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
