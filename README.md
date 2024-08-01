@@ -11,19 +11,18 @@
 <!-- [![LinkedIn][linkedin-shield]][linkedin-url]
 [![GitHub][GitHub-Shild]][github-url] -->
 
+<style>
+    h2 {
+        /* color: red; */
+        padding: 60px;
+    } 
+</style>
+
 <!-- Nome + Logo-->
 <div align="Left">
-
-<style>
-h2 {
-    /* color: red; */
-    padding: 60px;
-} 
-</style>
     <h2>Marcos Coelho Moreira</h2>
     </br>
     <div>
-    
         <!-- <img src="assets/logo-Coelho-Tech.png"  width="30%" > -->
         <picture >
             <source media="(prefers-color-scheme: dark)" 
