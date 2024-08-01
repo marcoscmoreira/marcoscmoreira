@@ -15,29 +15,29 @@
     <h2>Marcos Coelho Moreira</h2>
     </br>
     <div>
-        <img src="assets/logo-Coelho-Tech.jpg"  width="10%" >
+        <img src="assets/logo-Coelho-Tech.png"  width="20%" >
     </div>
 </div>
 </br>
 
 <!-- ACKNOWLEDGMENTS -->
-## Conhecimentos/knowledge
+<!-- ## Conhecimentos/knowledge -->
 
-![Java][Java-Shield]
-![Spring][Spring-Shield]
-[![Next][Next.js]][Next-url]
-[![React][React.js]][React-url]
-[![Angular][Angular.io]][Angular-url]
-![MySQL][MySql-Shield]
-![Postgres][Postgres-Shield]
-![Figma][Figma-shield]
+<!-- ![Java][Java-Shield] -->
+<!-- ![Spring][Spring-Shield] -->
+<!-- [![Next][Next.js]][Next-url] -->
+<!-- [![React][React.js]][React-url] -->
+<!-- [![Angular][Angular.io]][Angular-url] -->
+<!-- ![MySQL][MySql-Shield] -->
+<!-- ![Postgres][Postgres-Shield] -->
+<!-- ![Figma][Figma-shield] -->
 
 <span align="right">(<a href="#readme-top">Voltar ao topo</a>)</span>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
+<!-- [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/marcos-coelho-moreira/
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
@@ -51,7 +51,7 @@
 [github-url]: https://github.com/marcoscmoreira
 [MySql-Shield]: https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
 [Postgres-Shield]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
-[Figma-shield]: https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white
+[Figma-shield]: https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white -->
 
 <!-- Bibliotecas de escudos -->
 <!-- https://github.com/Ileriayo/markdown-badges -->
