@@ -11,17 +11,16 @@
 [![GitHub][GitHub-Shild]][github-url] -->
 
 <!-- Nome + Logo-->
-<div class="header">
-    <h2> Marcos Coelho Moreira </h2>
-    </br>
-    <div>
+<h2> Marcos Coelho Moreira </h2>
+</br>
+<div>
         <!-- <img src="assets/logo-Coelho-Tech.png"  width="30%" > -->
         <picture >
             <source media="(prefers-color-scheme: dark)" 
                 srcset="assets/logo-Coelho-Tech-Dark-Mode.png">
             <source media="(prefers-color-scheme: light)" 
                 srcset="assets/logo-Coelho-Tech-Ligth-Mode.png">
-            <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode."
+            <img width="30%" alt="Shows an illustrated sun in light mode and a moon with stars in dark mode."
                  src="assets/logo-Coelho-Tech-Dark-Mode.png">
         </picture>
     </div>
